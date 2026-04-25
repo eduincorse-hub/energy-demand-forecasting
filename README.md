@@ -55,4 +55,4 @@ while SARIMA provides interpretable seasonal decomposition.
 Both models achieve competitive accuracy for industrial forecasting.
 
 ## 👤 Author
-**Edwin** - Data Analyst & Electrical Engineer
+**Edwin Coro** - Data Analyst & Electrical Engineer
